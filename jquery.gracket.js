@@ -1,4 +1,9 @@
-$("[data-gracket]").gracket();
+// jquery.gracket.js
+// Erik M. Zettersten
+// https://github.com/erik5388/jquery.gracket.js
+// MIT
+// Version 1.5.5
+
 
 (function($) {
   $.fn.gracket = function(method) {
